@@ -1,0 +1,72 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+  button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+ 
+  form {
+    display: inline-block;
+  }
+  
+  input[type="text"] {
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 10px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
+  #getData {
+    background-color: #4CAF50; 
+    color: white;
+  }
+  
+  #getList {
+    background-color: #3498DB; 
+    color: white;
+  }
+  
+  #submitForm {
+    background-color: #007bff; 
+    color: white;
+  }
+  
+  #posts {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  #posts h1 {
+    margin-bottom: 10px;
+  }
+  
+  #posts ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #posts li {
+    margin-bottom: 5px;
+  }
+  
+  #posts li h2 {
+    margin-bottom: 5px;
+  }
+  
+  #posts li b {
+    font-weight: bold;
+  }
+  
+  #greeting, #message {
+    font-style: italic;
+  }
